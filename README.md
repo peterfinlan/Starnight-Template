@@ -1,4 +1,4 @@
-# Starnight-One-Page-HTML5-Template
+# Starnight One Page HTML5 Template
 A free HTML5/CSS3 Template by Peter Finlan
 
 Starnight One Page HTML5/CSS3 template is a free HTML template free for use for both personal and commercial projects. 
