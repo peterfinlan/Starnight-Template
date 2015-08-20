@@ -10,7 +10,7 @@ It was released by Sydney based designer & front end developer Peter Finlan.
 
 ## Contributing
 
-I encourage contributions to all of my templates and I will endevour to review all pull requests submitted.
+I encourage contributions to all of my templates and I will endeavour to review all pull requests submitted.
 
 Before contributing, please see the Contributing Guide (Coming soon).
 
